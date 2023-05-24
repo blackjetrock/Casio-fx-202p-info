@@ -4,9 +4,8 @@ Information about the casio FX-202P
 <code>
 Edge Connector Pinout
 =====================
-
-this is th econnetor that is at the botom right corner of the PCB. Has a
-cover on some calculators.
+This is the connetor that is at the botom right corner of the PCB. Has a
+cover on some calculators and can also be found on the FX-201P.
 
 1     Pin 6 HD36106
 2     Pin 15 T5006P (DIN)
