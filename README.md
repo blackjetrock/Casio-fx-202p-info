@@ -6,12 +6,13 @@ Edge Connector Pinout
 =====================
 This is the connector that is at the botom right corner of the PCB. Has a
 cover on some calculators and can also be found on the FX-201P.
-
-1     Pin 6 HD36106
+Supply for ICs and hence signals are negative, i.e. less than 0V.
+  
+1     Pin 6 HD36106  (CLKB)
 2     Pin 15 T5006P (DIN)
 3     nc
 4     Pin 16 TC5006P (5V) 0V on calculator
-5     Pin 8 HD36106
+5     Pin 8 HD36106  (0V)
 6     Pin 4 TC5006P A1
 7     Pin 6 TC5006P A4
 8     A9
