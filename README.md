@@ -4,7 +4,7 @@ Information about the casio FX-202P
 <code>
 Edge Connector Pinout
 =====================
-This is the connector that is at the botom right corner of the PCB. Has a
+This is the connector that is at the bottom right corner of the PCB. Has a
 cover on some calculators and can also be found on the FX-201P.
 Supply for ICs and hence signals are negative, i.e. less than 0V.
   
