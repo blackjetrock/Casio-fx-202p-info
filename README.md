@@ -10,7 +10,7 @@ Supply for ICs and hence signals are negative, i.e. less than 0V.
   
 1     Pin 6 HD36106  (CLKB)
 2     Pin 15 T5006P (DIN)
-3     nc
+3     nc                                    (connected to a signal on the FX-201P)
 4     Pin 16 TC5006P (5V) 0V on calculator
 5     Pin 8 HD36106  (0V)
 6     Pin 4 TC5006P A1
