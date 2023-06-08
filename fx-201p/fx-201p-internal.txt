@@ -1,0 +1,14 @@
+FX201P Internal Data
+====================
+
+Program tokens:
+
+
+ST# 	C4
+0       F0
+:       C5
+=       D0
++       D7
+K       A2
+SQRT    B1
+tan     A7
