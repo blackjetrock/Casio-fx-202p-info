@@ -12,3 +12,7 @@ ST# 	C4
 K       A2
 SQRT    B1
 tan     A7
+
+
+CLKA	178kHz
+
