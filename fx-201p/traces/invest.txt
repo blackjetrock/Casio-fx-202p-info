@@ -1,0 +1,1420 @@
+000: 00 00 00 00 00 00 00 00 
+008: 00 00 00 00 00 00 00 00 
+010: 00 00 00 00 00 00 00 00 
+018: 00 00 00 00 00 00 00 00 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+000: 81 4A 31 48 32 48 33 4F 
+008: 31 28 32 48 49 33 48 73 
+010: 00 00 00 00 00 00 00 00 
+018: 00 00 00 00 00 00 00 00 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : 2 : 3 = 1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+Number of reads  :7616
+Number of writes :2177
+Write protect    :Off
+(Parameter:0, Address:0) > 
+Writing data to slot 0
+Data written
+(Parameter:0, Address:0) > 
+000: 81 4A 31 48 32 48 33 4F 
+008: 31 28 32 48 49 33 48 73 
+010: 00 00 00 00 00 00 00 00 
+018: 00 00 00 00 00 00 00 00 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+h: Serial command help
+?: Serial command help
+s: Save emulation RAM to flash slot
+I: Information
+l: Load emulation RAM from flash slot
+z: Zero parameter
+E: Erase program slot
+D: Display program slot
+S: Display slot buffer
+d: Dump RAM
+L: List Programs
+A: Set Address
+T: Toggle Write Protect
+W: Write Byte
+(Parameter:0, Address:0) > 
+000: 00 00 00 00 00 00 00 00 
+008: 00 00 00 00 00 00 00 00 
+010: 00 00 00 00 00 00 00 00 
+018: 00 00 00 00 00 00 00 00 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+000: 81 4A 31 48 32 48 33 4F 
+008: 31 28 32 48 49 33 48 73 
+010: 00 00 00 00 00 00 00 00 
+018: 00 00 00 00 00 00 00 00 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+Number of reads  :15168
+Number of writes :4353
+Write protect    :Off
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : 2 : 3 = 1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#2 ENT 4 : 5 : 6 = 4 * 5 : ANS 6 : END 
+(Parameter:0, Address:0) > 
+000: 81 4A 31 48 32 48 33 4F 
+008: 31 28 32 48 49 33 48 73 
+010: 82 4A 34 48 35 48 36 4F 
+018: 34 28 35 48 49 36 48 73 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+000: 82 4A 34 48 35 48 36 4F 
+008: 34 28 35 48 09 36 48 73 
+010: 81 4A 31 48 32 48 33 4F 
+018: 31 28 32 48 49 33 48 73 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+PR#2 ENT 4 : 5 : 6 = 4 * 5 : ?(09)6 : END 
+PR#1 ENT 1 : 2 : 3 = 1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+Number of reads  :24576
+Number of writes :4993
+Write protect    :Off
+(Parameter:0, Address:0) > 
+PR#2 ENT 4 : 5 : 6 = 4 * 5 : ?(09)6 : END 
+PR#1 ENT 1 : 2 : 3 = 1 ?(68)2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+Number of reads  :25984
+Number of writes :5249
+Write protect    :Off
+(Parameter:0, Address:0) > 
+Number of reads  :26432
+Number of writes :5249
+Write protect    :Off
+(Parameter:0, Address:0) > 
+Number of reads  :26560
+Number of writes :5249
+Write protect    :Off
+(Parameter:0, Address:0) > 
+Number of reads  :27392
+Number of writes :5505
+Write protect    :Off
+(Parameter:0, Address:0) > 
+000: 82 4A 34 48 35 48 36 4F 
+008: 34 28 35 48 09 36 48 73 
+010: 81 4A 31 48 32 48 33 4F 
+018: 31 68 32 48 49 33 48 73 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+Found PR15
+Command Code 11
+Slot number: 10 
+PR#1 MAC ENT 13 : 
+  ST# 1 : I = I + K 1: 14 = IM : ENT IM : 15 = 15 + IM : IM = IM + 14 : IF I = 13 11 : 2 : 2 : 
+  ST# 2 : ANS 15 : 15 = K 0: I = 15 : GOTO 1 : MJ 15 = K 0: I = 15 : 
+  ST# 3 : I = I + K 1: 15 = 15 + IM : ANS IM : IF I = 13 : 3 : 4 : 4 : 
+  ST# 4 : ANS 15 : END 
+(Parameter:0, Address:0) > 
+Number of reads  :48672
+Number of writes :18145
+Write protect    :Off
+(Parameter:0, Address:0) > 
+h: Serial command help
+?: Serial command help
+s: Save emulation RAM to flash slot
+I: Information
+l: Load emulation RAM from flash slot
+z: Zero parameter
+E: Erase program slot
+D: Display program slot
+S: Display slot buffer
+d: Dump RAM
+L: List Programs
+A: Set Address
+T: Toggle Write Protect
+W: Write Byte
+(Parameter:0, Address:0) > 
+PR#1 MAC ENT 13 : 
+  ST# 1 : I = I + K 1: 14 = IM : ENT IM : 15 = 15 + IM : IM = IM + 14 : IF I = 13 11 : 2 : 2 : 
+  ST# 2 : ANS 15 : 15 = K 0: I = 15 : GOTO 1 : MJ 15 = K 0: I = 15 : 
+  ST# 3 : I = I + K 1: 15 = 15 + IM : ANS IM : IF I = 13 : END : 4 : 4 : 
+  ST# 4 : ANS 15 : END 
+(Parameter:0, Address:0) > 
+Number of reads  :63648
+Number of writes :30689
+Write protect    :Off
+(Parameter:0, Address:0) > 
+Number of reads  :78624
+Number of writes :43233
+Write protect    :Off
+(Parameter:0, Address:0) > 
+PR#1 MAC ENT 13 : 
+  ST# 1 : I = I + K 1: 14 = IM : ENT IM : 15 = 15 ?(6b)IM : IM = IM + 14 : IF I = 13 11 : 2 : 2 : 
+  ST# 2 : ANS 15 : 15 = K 0: I = 15 : GOTO 1 : MJ 15 = K 0: I = 15 : 
+  ST# 3 : I = I + K 1: 15 = 15 + IM : ANS IM : IF I = 13 : END : 4 : 4 : 
+  ST# 4 : ANS 15 : END 
+(Parameter:0, Address:0) > 
+000: 81 41 4A 3D 48 5D 31 48 
+008: 45 4F 45 2B 46 11 48 3E 
+010: 4F 44 48 4A 44 48 3F 4F 
+018: 3F 6B 44 48 44 4F 44 2B 
+020: 3E 48 4E 45 4F 3D 11 31 
+028: 48 32 48 32 48 5D 32 48 
+030: 49 3F 48 3F 4F 46 10 48 
+038: 45 4F 3F 48 4C 31 48 67 
+040: 3F 4F 46 10 48 45 4F 3F 
+048: 48 5D 33 48 45 4F 45 2B 
+050: 46 11 48 3F 4F 3F 2B 44 
+058: 48 49 44 48 4E 45 4F 3D 
+060: 48 73 48 34 48 34 48 5D 
+068: 34 48 49 3F 48 73 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+PR#1 MAC ENT 13 : 
+  ST# 1 : I = I + K 1: 14 = IM : ENT IM : 15 = 15 ?(6b)IM : IM = IM + 14 : IF I = 13 11 : 2 : 2 : 
+  ST# 2 : ANS 15 : 15 = K 0: I = 15 : GOTO 1 : MJ 15 = K 0: I = 15 : 
+  ST# 3 : I = I + K 1: 15 = 15 + IM : ANS IM : IF I = 13 : END : 4 : 4 : 
+  ST# 4 : ANS 15 : END 
+(Parameter:0, Address:0) > 
+/------------------------------\
+| Casio PRO-101                |
+| TC5006P Pico                 |
+/------------------------------/
+Setting GPIOs...
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) > 
+000: 00 00 00 00 00 00 00 00 
+008: 00 00 00 00 00 00 00 00 
+010: 00 00 00 00 00 00 00 00 
+018: 00 00 00 00 00 00 00 00 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+000: 81 00 00 00 00 00 00 00 
+008: 00 00 00 00 00 00 00 00 
+010: 00 00 00 00 00 00 00 00 
+018: 00 00 00 00 00 00 00 00 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+000: 81 4A 31 48 32 48 33 4F 
+008: 31 28 32 48 49 33 48 73 
+010: 00 00 00 00 00 00 00 00 
+018: 00 00 00 00 00 00 00 00 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : 2 : 3 = 1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : 2 : 3 = 1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : 2 : 3 = 1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+Found PR15
+Command Code 11
+Slot number: 10 
+PR#1 MAC ENT 13 : 
+  ST# 1 : I = I + K 1: 14 = IM : ENT IM : 1= 15 + IM : IM = IM + 14 : IF I = 13 : 1 : 2 : 2 : 
+  ST# 2 : ANS 15 : 15 = K 0: I = 15 : GOTO 1 : MJ 15 = K 0: I = 15 : 
+  ST# 3 : I = I + K 1: 15 = 15 + IM : ANS IM : IF I = 13 : 3 : 4 : 4 : 
+  ST# 4 : ANS 15 : END 
+(Parameter:0, Address:0) > 
+PR#1 MAC ENT 13 : 
+  ST# 1 : I = ?(47)+ K 1: 14 = IM : ENT IM : 1= 15 + IM : IM = IM + 14 : IF I = 13 : 1 : 2 : 2 : 
+  ST# 2 : ANS 15 : 15 = ?(56)0: I = 15 : GOTO 1 : MJ 15 = K 0: I = 15 : 
+  ST# 3 : I = I + K 1: 15 = 15 + IM : ANS IM : IF I = 13 : 3 : 4 : 4 : 
+  ST# 4 : ANS 15 : END 
+(Parameter:0, Address:0) > 
+PR#1 MAC ENT 13 : 
+  ST# 1 : I = ?(47)+ K 1?(58)14 ?(47)IM : ENT IM : 1IF 15 ?(23)IM : IM = IM + 14 : IF I = 13 : 1 : 2 : 2 : 
+  ST# 2 : ANS 15 : 15 = ?(56)0: I = 15 : GOTO 5 : MJ 15 = K 0: I = 15 : 
+  ST# 2 : I = I + K 1: 15 = 15 + ?(04): ANS IM : IF I = ?(1d): 3 : 4 GOTO 4 : 
+  ST# 4 : ANS 15 : END 
+(Parameter:0, Address:0) > 
+/------------------------------\
+| Casio PRO-101                |
+| TC5006P Pico                 |
+/------------------------------/
+Setting GPIOs...
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) > 
+h: Serial command help
+?: Serial command help
+s: Save emulation RAM to flash slot
+I: Information
+l: Load emulation RAM from flash slot
+z: Zero parameter
+E: Erase program slot
+D: Display program slot
+S: Display slot buffer
+d: Dump RAM
+L: List Programs
+A: Set Address
+T: Toggle Write Protect
+W: Write Byte
+(Parameter:0, Address:0) > 
+/------------------------------\
+| Casio PRO-101                |
+| TC5006P Pico                 |
+/------------------------------/
+Setting GPIOs...
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) > 
+000: 00 00 00 00 00 00 00 00 
+008: 00 00 00 00 00 00 00 00 
+010: 00 00 00 00 00 00 00 00 
+018: 00 00 00 00 00 00 00 00 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+#define TEST_ALL_ADDRESS     0 
+000: 00 00 00 00 00 00 00 00 
+008: 00 00 00 00 00 00 00 00 
+010: 00 00 00 00 00 00 00 00 
+018: 00 00 00 00 00 00 00 00 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) >
+(Parameter:0, Address:0) >
+Erasing program slot 0...
+done.
+(Parameter:0, Address:0) >
+Slot Buffer:
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) >
+(Parameter:0, Address:0) >
+(Parameter:0, Address:0) >
+(Parameter:0, Address:0) >
+(Parameter:0, Address:0) >
+(Parameter:0, Address:0) >
+Slot 0
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)
+(Parameter:0, Address:0) >
+Slot 0
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)?(ff)
+(Parameter:0, Address:0) >
+Erasing program slot 0...
+done.
+(Parameter:0, Address:0) >
+Slot Buffer:
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) >
+Slot Buffer:
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) >
+(Parameter:0, Address:0) > 
+h: Serial command help
+?: Serial command help
+s: Save emulation RAM to flash slot
+I: Information
+l: Load emulation RAM from flash slot
+z: Zero parameter
+E: Erase program slot
+D: Display program slot
+S: Display slot buffer
+d: Dump RAM
+L: List Programs
+A: Set Address
+T: Toggle Write Protect
+W: Write Byte
+(Parameter:0, Address:0) > 
+/------------------------------\
+| Casio PRO-101                |
+| TC5006P Pico                 |
+/------------------------------/
+Setting GPIOs...
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) > 
+000: 00 00 00 00 00 00 00 00 
+008: 00 00 00 00 00 00 00 00 
+010: 00 00 00 00 00 00 00 00 
+018: 00 00 00 00 00 00 00 00 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+000: 81 4A 31 48 32 48 33 4F 
+008: 31 28 32 48 49 33 48 73 
+010: 00 00 00 00 00 00 00 00 
+018: 00 00 00 00 00 00 00 00 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : 2 : 3 = 1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : 2 : 3 = 1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : 2 : 3 = 1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : 2 : 3 = 1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : 2 : 3 = 1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+000: 81 4A 31 48 32 48 33 CF 
+008: 31 28 32 48 49 33 48 73 
+010: 8F 39 4F 06 11 11 10 10 
+018: 11 10 48 73 00 00 00 00 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : 2 : 3 ?(cf)1 * 2 : ANS 3 : END 
+PR#15 9 = ?(06)110010: END 
+(Parameter:0, Address:0) > 
+PR#15 9 = ?(06)110010: END 
+PR#1 ENT 1 : 2 : 3 ?(cf)1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+/------------------------------\
+| Casio PRO-101                |
+| TC5006P Pico                 |
+/------------------------------/
+Setting GPIOs...
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) >
+Number of reads  :0
+Number of writes :0
+Write protect    :Off
+(Parameter:0, Address:0) > 
+000: 00 00 00 00 00 00 00 00 
+008: 00 00 00 00 00 00 00 00 
+010: 00 00 00 00 00 00 00 00 
+018: 00 00 00 00 00 00 00 00 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 00 00 00 00 00 00 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 00 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#2 ENT 4 : ENT 5 : 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#7 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#7 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#7 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#7 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#7 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#7 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#7 
+(Parameter:0, Address:0) > 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#7 
+PR#4 
+(Parameter:0, Address:0) > 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#7 
+PR#8 
+(Parameter:0, Address:0) > 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#7 
+PR#8 
+(Parameter:0, Address:0) > 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#7 
+PR#8 
+(Parameter:0, Address:0) > 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#7 
+PR#8 
+(Parameter:0, Address:0) > 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#7 
+PR#8 
+(Parameter:0, Address:0) > 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#7 
+PR#8 
+(Parameter:0, Address:0) > 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#7 
+PR#8 
+(Parameter:0, Address:0) > 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#7 
+PR#8 
+(Parameter:0, Address:0) > 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#7 
+PR#8 
+PR#15 9 = K 110010: END 
+(Parameter:0, Address:0) > 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#7 
+PR#8 
+PR#15 9 = K 110010: END 
+(Parameter:0, Address:0) > 
+PR#2 ENT 4 : ENT 5 : 6 = 4 * 5 : ANS 6 : END 
+PR#3 ENT 7 : ENT 8 : 9 = 7 * 8 : ANS 9 : END 
+PR#4 
+PR#1 ENT 1 : ENT 2 : 3 = 1 * 2 : ANS 3 : END 
+PR#7 
+PR#8 
+PR#15 9 = K 110010: END 
+(Parameter:0, Address:0) > 
+(Parameter:0, Address:0) > 
+(Parameter:1, Address:0) > 
+(Parameter:10, Address:0) > 
+Slot 10
+81 41 4a 3d 48 5d 31 48 45 4f 45 2b 46 11 48 3e 
+4f 44 48 4a 44 48 3f 4f 3f 2b 44 48 44 4f 44 2b 
+3e 48 4e 45 4f 3d 48 31 48 32 48 32 48 5d 32 48 
+49 3f 48 3f 4f 46 10 48 45 4f 3f 48 4c 31 48 67 
+3f 4f 46 10 48 45 4f 3f 48 5d 33 48 45 4f 45 2b 
+46 11 48 3f 4f 3f 2b 44 48 49 44 48 4e 45 4f 3d 
+48 33 48 34 48 34 48 5d 34 48 49 3f 48 73 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+PR#1 MAC ENT 13 : 
+  ST# 1 : I = I + K 1: 14 = IM : ENT IM : 15 = 15 + IM : IM = IM + 14 : IF I = 13 : 1 : 2 : 2 : 
+  ST# 2 : ANS 15 : 15 = K 0: I = 15 : GOTO 1 : MJ 15 = K 0: I = 15 : 
+  ST# 3 : I = I + K 1: 15 = 15 + IM : ANS IM : IF I = 13 : 3 : 4 : 4 : 
+  ST# 4 : ANS 15 : END 
+(Parameter:10, Address:0) > 
+(Parameter:10, Address:0) > 
+000: 81 41 4A 3D 48 5D 31 48 
+008: 45 4F 45 2B 46 11 48 3E 
+010: 4F 44 48 4A 44 48 3F 4F 
+018: 3F 2B 44 48 44 4F 44 2B 
+020: 3E 48 4E 45 4F 3D 48 31 
+028: 48 32 48 32 48 5D 32 48 
+030: 49 3F 48 3F 4F 46 10 48 
+038: 45 4F 3F 48 4C 31 48 67 
+040: 3F 4F 46 10 48 45 4F 3F 
+048: 48 5D 33 48 45 4F 45 2B 
+050: 46 11 48 3F 4F 3F 2B 44 
+058: 48 49 44 48 4E 45 4F 3D 
+060: 48 33 48 34 48 34 48 5D 
+068: 34 48 49 3F 48 73 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:10, Address:0) > 
+PR#1 MAC ENT 13 : 
+  ST# 1 : I = I + K 1: 14 = IM : ENT IM : 15 = 15 + IM : IM = IM + 14 : IF I = 13 : 1 : 2 : 2 : 
+  ST# 2 : ANS 15 : 15 = K 0: I = 15 : GOTO 1 : MJ 15 = K 0: I = 15 : 
+  ST# 3 : I = I + K 1: 15 = 15 + IM : ANS IM : IF I = 13 : 3 : 4 : 4 : 
+  ST# 4 : ANS 15 : END 
+(Parameter:10, Address:0) > 
+PR#1 MAC ENT 13 : 
+  ST# 1 : I = I + K 1: 14 = IM : ENT IM : 15 = 15 + IM : IM = IM + 14 : IF I = 13 : 1 : 2 : 2 : 
+  ST# 2 : ANS 15 : 15 = K 0: I = 15 : GOTO 1 : MJ 15 = K 0: I = 15 : 
+  ST# 3 : I = I + K 1: 15 = 15 + IM : ANS IM : IF I = 13 : 3 : 4 : 4 : 
+  ST# 4 : ANS 15 : END 
+(Parameter:10, Address:0) > 
+PR#1 MAC ENT 13 : 
+  ST# 1 : I = I + K 1: 14 = IM : ENT IM : 15 = 15 + IM : IM = IM + 14 : IF I = 13 : 1 : 2 : 2 : 
+  ST# 2 : ANS 15 : 15 = K 0: I = 15 : GOTO 1 : MJ 15 = K 0: I = 15 : 
+  ST# 3 : I = I + K 1: 15 = 15 + IM : ANS IM : IF I = 13 : 3 : 4 : 4 : 
+  ST# 4 : ANS 15 : END 
+(Parameter:10, Address:0) > 
+PR#1 MAC ENT 13 : 
+  ST# 1 : I = I + K 1: 14 = IM : ENT IM : 15 = 15 + IM : IM = IM + 14 : IF I = 13 : 1 : 2 : 2 : 
+  ST# 2 : ANS 15 : 15 = K 0: I = 15 : GOTO 1 : MJ 15 = K 0: I = 15 : 
+  ST# 3 : I = I + K 1: 15 = 15 + IM : ANS IM : IF I = 13 : 3 : 4 : 4 : 
+  ST# 4 : ANS 15 : END 
+(Parameter:10, Address:0) > 
+PR#1 MAC ENT 13 : 
+  ST# 1 : I = I + K 1: 14 = IM : ENT IM : 15 = 15 + IM : IM = IM + 14 : IF I = 13 : 1 : 2 : 2 : 
+  ST# 2 : ANS 15 : 15 = K 0: I = 15 : GOTO 1 : MJ 15 = K 0: I = 15 : 
+  ST# 3 : I = I + K 1: 15 = 15 + IM : ANS IM : IF I = 13 : 3 : 4 : 4 : 
+  ST# 4 : ANS 15 : END 
+(Parameter:10, Address:0) > 
+000: 81 41 4A 3D 48 5D 31 48 
+008: 45 4F 45 2B 46 11 48 3E 
+010: 4F 44 48 4A 44 48 3F 4F 
+018: 3F 2B 44 48 44 4F 44 2B 
+020: 3E 48 4E 45 4F 3D 48 31 
+028: 48 32 48 32 48 5D 32 48 
+030: 49 3F 48 3F 4F 46 10 48 
+038: 45 4F 3F 48 4C 31 48 67 
+040: 3F 4F 46 10 48 45 4F 3F 
+048: 48 5D 33 48 45 4F 45 2B 
+050: 46 11 48 3F 4F 3F 2B 44 
+058: 48 49 44 48 4E 45 4F 3D 
+060: 48 33 48 34 48 34 48 5D 
+068: 34 48 49 3F 48 73 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: 00 00 00 00 00 00 00 00 
+088: 00 00 00 00 00 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+(Parameter:10, Address:0) > 
+(Parameter:0, Address:0) > 
+(Parameter:1, Address:0) > 
+(Parameter:11, Address:0) > 
+Slot 11
+84 41 5d 31 48 4a 31 c8 32 48 33 40 33 2b 31 48 
+34 40 34 2b 32 48 35 40 31 28 31 2b 35 48 36 40 
+31 28 32 2b 36 48 37 4f 37 2b 46 11 48 4c 31 48 
+67 38 40 33 28 33 48 30 40 37 28 35 2a 38 48 39 
+4f 33 28 34 48 39 40 37 28 36 2a 39 48 39 4f 39 
+27 38 48 38 4f 39 28 33 22 2b 34 27 37 48 49 38 
+48 39 48 5d 32 48 4a 31 48 32 4f 31 28 39 2b 38 
+48 49 32 48 4c 32 48 73 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+PR#4 MAC 
+  ST# 1 : ENT 1 ?(c8)2 : 3 (=) 3 + 1 : 4 (=) 4 + 2 : 5 (=) 1 * 1 + 5 : 6 (=) 1 * 2 + 6 : 7 = 7 + K 1: GOTO 1 : MJ 8 (=) 3 * 3 : 0 (=) 7 * 5 - 8 : 9 = 3 * 4 : 9 (=) 7 * 6 - 9 : 9 = 9 / 8 : 8 = 9 * 3 +/- + 4 / 7 : ANS 8 : 9 : 
+  ST# 2 : ENT 1 : 2 = 1 * 9 + 8 : ANS 2 : GOTO 2 : END 
+(Parameter:11, Address:0) > 
