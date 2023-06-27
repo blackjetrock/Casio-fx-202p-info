@@ -67,4 +67,15 @@ EXP	 EE	0xDD
 9	 9	0xF9
 
 
+Display format:
 
+F102FFF123456789
+
+F: Blank
+2: Decimal point position (left hand 2 here)
+0-9: digits.
+E: -
+
+F50AFFFFFFFFFE45    : -45
+0101FF3141592653    : 3.141592653
+0102FF3141592653    : 31.41592653
