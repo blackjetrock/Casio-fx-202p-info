@@ -43,5 +43,7 @@ stores a number in memory 1 and then displays it. This can be altered to the fol
 (FA) = K 1234 : ANS (FA)
 
 Where (FA) is the code for memory 10 (F1 is the code for 1, FA is the code for 10). When run this works,
-the memory number is displayed a s alarge lower case r as in the code for SUB#
+the memory number is displayed a s alarge lower case r as in the code for SUB#.
+
+
 
