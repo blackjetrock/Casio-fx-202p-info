@@ -195,3 +195,4 @@ The index table (actually all values from 50 to 67 are written to zero when a pr
   00024:   80 C4  R  00424:   B7 00  R  00824:   E7 00  R  01224:   00 00  .  01624:   00 00  .
   00025:   81 F4  R  00425:   B0 00  R  00825:   E0 00  R  01225:   00 00  .  01625:   00 00  .
   
+As MJ uses the ST#A index location, ST#A behaves like a manual jump. You can also do a GOTO A which is a programmed manual jump.
