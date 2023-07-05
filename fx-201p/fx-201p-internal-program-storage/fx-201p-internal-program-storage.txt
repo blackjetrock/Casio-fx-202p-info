@@ -60,3 +60,28 @@ D   : E
 E   : -
 F   : <space>
 
+Label Indexing
+==============
+
+This program:
+
+  ST# 4 : 1= 1+ K 1 : 
+  ST# 5 : 2= 2+ K 1 : GOTO 4 : 
+
+causes an index of the locations of the labels to be built at 0x50:
+
+050: 00 00 00 00 02 16 00 00 
+058: 00 00 00 00 00 00 00 00 
+060: 9F 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: C4 F4 C5 F1 D0 F1 D7 A2 
+088: F1 C5 C4 F5 C5 F2 D0 F2 
+090: D7 A2 F1 C5 C2 F4 C5 00 
+098: 00 00 00 00 00 00 00 00 
+
+the values 02 and 16 are the indices of the labels in the program tokens (with a factor of 2, for some reason).
+
+If this program is run and the 2 is changed to a 16 then the program starts looping to ST#5 not ST#4 even though the tokens haven't changed. 
+If the program token for ST#4 is changed to ST#0 while th eprogram is running then the program continues to loop to ST#4 as the index table hasn't been altered.
