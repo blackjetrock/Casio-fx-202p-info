@@ -136,3 +136,4 @@ Gives this:
 
 so the tokens are scanned and the table built when the ST# tokens are encountered, not when a GOTO tries to find one.
 
+SUB#n uses the same table.
