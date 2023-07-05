@@ -137,3 +137,31 @@ Gives this:
 so the tokens are scanned and the table built when the ST# tokens are encountered, not when a GOTO tries to find one.
 
 SUB#n uses the same table.
+
+From the following program (executed), the MJ uses the byte at 5A for its index.
+
+050: 02 08 00 00 00 00 00 00 
+058: 00 00 0C 00 00 00 00 00 
+060: 9F 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: C3 F0 C5 C3 F1 C5 C6 C5 
+088: F1 D0 A2 F7 C5 00 00 00 
+090: 00 00 00 00 00 00 00 00 
+098: 00 00 00 00 00 00 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+
+Keystrokes:
+SUB# 0  : SUB# 1 : MJ  : 1= K 7 : 
