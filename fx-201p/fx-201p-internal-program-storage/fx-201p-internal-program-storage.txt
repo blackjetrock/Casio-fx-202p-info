@@ -85,3 +85,54 @@ the values 02 and 16 are the indices of the labels in the program tokens (with a
 
 If this program is run and the 2 is changed to a 16 then the program starts looping to ST#5 not ST#4 even though the tokens haven't changed. 
 If the program token for ST#4 is changed to ST#0 while th eprogram is running then the program continues to loop to ST#4 as the index table hasn't been altered.
+
+Running this program:
+
+  ST# 0  : 
+  ST# 1 : 
+  ST# 2 : 
+  ST# 3 : 
+  ST# 4 : 
+  ST# 5 : 
+  ST# 6 : 
+  ST# 7 : 
+  ST# 8 : 
+  ST# 9 : 
+
+Gives this:
+
+000: C0 C0 C0 C0 C0 C0 C0 C0 
+008: 00 00 00 00 61 06 03 F1     M01  06.6100000000  E03
+010: 00 00 00 30 87 01 03 F1     M02  01.8730000000  E03
+018: 00 00 00 00 00 00 00 00 
+020: 00 00 00 00 00 00 00 00 
+028: 00 00 00 00 00 00 00 00 
+030: 00 00 00 00 00 00 00 00 
+038: 00 00 00 00 00 00 00 00 
+040: 00 00 00 00 00 00 00 00 
+048: 00 00 00 00 00 00 00 00 
+050: 02 08 0E 14 1A 20 26 2C 
+058: 32 38 00 00 00 00 00 00 
+060: 9F 00 00 00 00 00 00 00 
+068: 00 00 00 00 00 00 00 00 
+070: 00 00 00 00 00 00 00 00 
+078: 00 00 00 00 00 00 00 00 
+080: C4 F0 C5 C4 F1 C5 C4 F2 
+088: C5 C4 F3 C5 C4 F4 C5 C4 
+090: F5 C5 C4 F6 C5 C4 F7 C5 
+098: C4 F8 C5 C4 F9 C5 00 00 
+0A0: 00 00 00 00 00 00 00 00 
+0A8: 00 00 00 00 00 00 00 00 
+0B0: 00 00 00 00 00 00 00 00 
+0B8: 00 00 00 00 00 00 00 00 
+0C0: 00 00 00 00 00 00 00 00 
+0C8: 00 00 00 00 00 00 00 00 
+0D0: 00 00 00 00 00 00 00 00 
+0D8: 00 00 00 00 00 00 00 00 
+0E0: 00 00 00 00 00 00 00 00 
+0E8: 00 00 00 00 00 00 00 00 
+0F0: 00 00 00 00 00 00 00 00 
+0F8: 00 00 00 00 00 00 00 00 
+
+so the tokens are scanned and the table built when the ST# tokens are encountered, not when a GOTO tries to find one.
+
