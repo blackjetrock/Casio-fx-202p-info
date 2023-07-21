@@ -26,6 +26,7 @@ Supply for ICs and hence signals are negative, i.e. less than 0V.
 16    nc
 17    nc
 
+T3184    Clock?
 
 FX201P
 ======
