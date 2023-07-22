@@ -1,5 +1,8 @@
 # Casio-fx-202p-info
 Information about the casio FX-202P and FX201P
+The internal program representation and character sets are identical on these two calculators.
+There is information about how the RAM is used, with programs, memories and various internal data structures
+in this repository.
 
 <code>
 Edge Connector Pinout
