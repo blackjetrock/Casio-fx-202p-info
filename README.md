@@ -1,5 +1,8 @@
 # Casio-fx-202p-info
 Information about the casio FX-202P and FX201P
+The internal program representation and character sets are identical on these two calculators.
+There is information about how the RAM is used, with programs, memories and various internal data structures
+in this repository.
 
 <code>
 Edge Connector Pinout
@@ -26,6 +29,7 @@ Supply for ICs and hence signals are negative, i.e. less than 0V.
 16    nc
 17    nc
 
+T3184    Clock?
 
 FX201P
 ======
@@ -43,7 +47,17 @@ stores a number in memory 1 and then displays it. This can be altered to the fol
 (FA) = K 1234 : ANS (FA)
 
 Where (FA) is the code for memory 10 (F1 is the code for 1, FA is the code for 10). When run this works,
-the memory number is displayed a s alarge lower case r as in the code for SUB#.
+the memory number is displayed as a large lower case r as in the code for SUB#.
+
+
+FX201P RAM Replacement
+======================
+
+The RAM replace,ment uses an RP2040 on a Pio-Zero form factor PCb to replace both HD36106 RAM chips. A USB interface is provided which can display the contents of the RAM (with decoding of memories and program keystrokes).
+Programs and memories can be saved to the RP2040 flash and can be loaded back. Memories and programs can be save dand loaded separately.
+It also has an interface that allows the extra features to be accessed from the keyboard or by a program.
+
+Programs can be 'chained' by loading flash slots as required to execute a larger program.
 
 
 
