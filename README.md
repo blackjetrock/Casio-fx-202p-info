@@ -53,8 +53,8 @@ the memory number is displayed as a large lower case r as in the code for SUB#.
 FX201P RAM Replacement
 ======================
 
-The RAM replace,ment uses an RP2040 on a Pio-Zero form factor PCb to replace both HD36106 RAM chips. A USB interface is provided which can display the contents of the RAM (with decoding of memories and program keystrokes).
-Programs and memories can be saved to the RP2040 flash and can be loaded back. Memories and programs can be save dand loaded separately.
+The RAM replacement uses an RP2040 on a Pico-Zero form factor PCB to replace both HD36106 RAM chips. A USB interface is provided which can display the contents of the RAM (with decoding of memories and program keystrokes).
+Programs and memories can be saved to the RP2040 flash and can be loaded back. Memories and programs can be saved and loaded separately.
 It also has an interface that allows the extra features to be accessed from the keyboard or by a program.
 
 Programs can be 'chained' by loading flash slots as required to execute a larger program.
